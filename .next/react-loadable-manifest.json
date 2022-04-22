@@ -1,0 +1,664 @@
+{
+  "../../components/Banner": [
+    {
+      "id": "./components/Banner.js",
+      "file": "static/chunks/6.js"
+    }
+  ],
+  "../../components/CTA": [
+    {
+      "id": "./components/CTA.js",
+      "file": "static/chunks/7.js"
+    }
+  ],
+  "../../components/Footer": [
+    {
+      "id": "./components/Footer.js",
+      "file": "static/chunks/8.js"
+    }
+  ],
+  "../../components/Header": [
+    {
+      "id": "./components/Header.js",
+      "file": "static/chunks/9.js"
+    }
+  ],
+  "../../components/MoreProductsDemo": [
+    {
+      "id": "./components/MoreProductsDemo.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/arrayWithHoles.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/asyncToGenerator.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/construct.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/interopRequireDefault.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/interopRequireWildcard.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/isNativeReflectConstruct.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/nonIterableRest.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/slicedToArray.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/link.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/normalize-trailing-slash.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/request-idle-callback.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/route-loader.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/router.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/use-intersection.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/client/with-router.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/i18n/normalize-locale-path.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/mitt.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/router-context.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/router/router.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/router/utils/format-url.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/router/utils/get-asset-path-from-route.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/router/utils/parse-relative-url.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/router/utils/querystring.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/router/utils/resolve-rewrites-noop.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/router/utils/route-matcher.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/router/utils/route-regex.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/lib/utils.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/dist/next-server/server/denormalize-page-path.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/next/link.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-is/cjs/react-is.development.js",
+      "file": "static/chunks/2.js"
+    },
+    {
+      "id": "./node_modules/react-is/index.js",
+      "file": "static/chunks/2.js"
+    }
+  ],
+  "../../components/ProductAbout": [
+    {
+      "id": "./components/ProductAbout.js",
+      "file": "static/chunks/5.js"
+    },
+    {
+      "id": "./node_modules/marked/lib/marked.js",
+      "file": "static/chunks/5.js"
+    }
+  ],
+  "../../components/metal-door/Player": [
+    {
+      "id": "./components/metal-door/ColorSlider.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/metal-door/Player.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/metal-door/StateSwitch.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/defineProperty.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/build/webpack/loaders/next-style-loader/runtime/injectStylesIntoStyleTag.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/api.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./node_modules/pure-react-carousel/dist/react-carousel.es.css",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/pure-react-carousel/dist/index.es.js",
+      "file": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/pure-react-carousel/dist/react-carousel.es.css",
+      "file": "static/chunks/3.js"
+    }
+  ],
+  "../../components/shoe/Player": [
+    {
+      "id": "./components/shoe/ColorSlider.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./components/shoe/Player.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./components/shoe/TextSlider.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/defineProperty.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/dist/build/webpack/loaders/next-style-loader/runtime/injectStylesIntoStyleTag.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/api.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./node_modules/pure-react-carousel/dist/react-carousel.es.css",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/pure-react-carousel/dist/index.es.js",
+      "file": "static/chunks/4.js"
+    },
+    {
+      "id": "./node_modules/pure-react-carousel/dist/react-carousel.es.css",
+      "file": "static/chunks/4.js"
+    }
+  ],
+  "../../components/sofa/Player": [
+    {
+      "id": "./components/sofa/ColorSlider.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/sofa/Player.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./components/sofa/TextSlider.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./lib/spin.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/@babel/runtime/helpers/esm/defineProperty.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_DataView.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Hash.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_ListCache.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Map.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_MapCache.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Promise.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Set.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_SetCache.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Stack.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Symbol.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_Uint8Array.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_WeakMap.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayFilter.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayLikeKeys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arrayPush.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_arraySome.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_assocIndexOf.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseGetAllKeys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseGetTag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsArguments.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsEqual.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsEqualDeep.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsNative.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseIsTypedArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseKeys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseTimes.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_baseUnary.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_cacheHas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_coreJsData.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_equalArrays.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_equalByTag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_equalObjects.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_freeGlobal.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getAllKeys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getMapData.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getNative.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getRawTag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getSymbols.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getTag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_getValue.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashClear.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashDelete.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashGet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashHas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_hashSet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isIndex.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isKeyable.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isMasked.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_isPrototype.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheClear.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheDelete.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheGet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheHas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_listCacheSet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheClear.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheDelete.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheGet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheHas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapCacheSet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_mapToArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nativeCreate.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nativeKeys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_nodeUtil.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_objectToString.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_overArg.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_root.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_setCacheAdd.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_setCacheHas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_setToArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackClear.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackDelete.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackGet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackHas.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_stackSet.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/_toSource.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/eq.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isArguments.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isArrayLike.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isBuffer.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isEqual.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isFunction.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isLength.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isObject.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isObjectLike.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/isTypedArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/keys.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/stubArray.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/lodash/stubFalse.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/build/webpack/loaders/next-style-loader/runtime/injectStylesIntoStyleTag.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/api.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./node_modules/pure-react-carousel/dist/react-carousel.es.css",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/next/dist/compiled/webpack/global.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/pure-react-carousel/dist/index.es.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/pure-react-carousel/dist/react-carousel.es.css",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./Product": [
+    {
+      "id": "./components/Product.js",
+      "file": "static/chunks/10.js"
+    }
+  ],
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js"
+    }
+  ]
+}
